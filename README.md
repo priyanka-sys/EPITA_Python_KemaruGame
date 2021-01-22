@@ -1,1 +1,1 @@
-# EPITA_Python_KemaruGame
+# KemaruGame
